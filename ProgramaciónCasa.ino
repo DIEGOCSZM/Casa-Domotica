@@ -10,6 +10,14 @@ int led1=0;
 int led2=0;
 int led3=0;
 int motor=0;
+int pulsador = 0;
+int zumbador = 0;
+int servo = 0;  // numero de pin del servo
+
+// sensor de distancia
+int trig = 0;
+int echo = 0;
+
 
 
 Servo servo_13;
